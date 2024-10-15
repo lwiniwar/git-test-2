@@ -2,6 +2,13 @@
 test repository for git class
 
 changed a line :)
+add another smiley :P
+test repository for git class
+
+changed a line :)
+add another smiley :P
+test repository for git class
+changed a line :)
 
 
 add another smiley :P
