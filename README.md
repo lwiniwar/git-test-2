@@ -5,7 +5,7 @@ changed a line :)
 add another smiley :P
 test repository for git class
 
-
+sdaihfoiehuf
 123456789012345678901234567890
 changed a line :)
 add another smiley :P
